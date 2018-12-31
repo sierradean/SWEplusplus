@@ -1,0 +1,40 @@
+.navBar
+{
+	background-color: pink;
+	
+}
+.navLink
+{
+	text-align:center;
+	position:relative;
+	margin-top:30px;
+	font-size:14px;
+	margin-left:-10px;
+	width:121px;
+	height: 35px;
+	line-height: 35px;
+	float:left;
+	color: black ;
+}
+
+.navLink a
+{
+	text-decoration:none;
+	color:black;
+}
+body,h1,h2,h3,h4,h5,h6 
+{
+	font-family: "Lato", sans-serif
+}
+.w3-bar,h1,button 
+{
+	font-family: "Montserrat", sans-serif
+}
+.fa-anchor,.fa-coffee 
+{
+	font-size:200px
+}
+p
+{
+	color:black;
+}
